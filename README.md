@@ -22,6 +22,7 @@ using beginner-level Python programming.
 - [Engines – Powerplant (Rolls-Royce Trent 900)](aircraft/04_engines.md)
 - [Landing Gear – Structure and Braking System](aircraft/05_landing_gear.md)
 - [Cockpit – Airbus A320 Flight Deck](aircraft/06_cockpit.md)
+- [Conclusion – Understanding Aircraft as a System](aircraft/07_conclusion.md)
 
 
 This project is for learning and educational purposes.
