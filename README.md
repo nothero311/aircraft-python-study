@@ -9,6 +9,7 @@ using beginner-level Python programming.
 - Basics of Python programming
 - Forces of flight (lift, drag, thrust, weight)
 - Basic aircraft systems and how an airplane works
+- [Wings – structure and control surfaces](aircraft/01_wings.md)
 
 # Purpose of this project
 - To understand how aircraft fly from an engineering perspective
